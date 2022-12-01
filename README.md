@@ -5,20 +5,6 @@
 </h1>
 </div>
 
-## About The Platform
-
-### Lunar
-
-Lunar is a DeFi ecosystem that aims to revolutionize the way we interface with crypto.
-
-### Lunar NFT
-
-Lunar Crystals are a collection of NFTs that unlock special powers for users when plugged into the Lunar ecosystem. They also generate passive LNR token reflections for holders. There are 8 different crystal types of varying rarities, each with their own unique powers and LNR reflection amounts.
-
-### Lunar App
-
-Lunar aims to streamline the entire process of crypto and NFT trading into a single, interconnected platform with a seamless user experience. Lunar also removes the blockchain barrier, allowing you to trade almost any token or NFT across different blockchains in a single click.
-
 ## About This Repo
 
 ### Overview
